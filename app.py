@@ -154,7 +154,7 @@ with colB:
 
 # -----------------------------
 
-MODEL_PATH = "waste_classifier (1).h5"
+MODEL_PATH = "waste_classifier.h5"
 
 @st.cache_resource
 def load_model():
